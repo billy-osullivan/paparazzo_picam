@@ -1,4 +1,6 @@
-# paparazzo_picam
+# Paparzzo C/CS 12MP Camera v1.0
+# Raspberry pi camera
+
 Raspberry PI HQ camera software for a 4 button GPIO camera
 (Dont expect this to be updated with any frequency, but feel free to use the code and change as you want!)
 
@@ -6,21 +8,20 @@ This is a menu driven camera utilizing pygame.
 You can view the pictures saved on the camera
 To get pictures off of the camera you need to use an FTP client such as filezilla
 
-# Paparzzo C/CS 12MP Camera v1.0
-# Raspberry pi camera
+records pictures and 5 minute max video clips (no audio in this version)
 
- records pictures and 5 minute max video clips (no audio in this version)
-
- This camera requires 4 GPIO buttons
+This camera requires 4 GPIO buttons
  
- Runs on pygame and python3
+Runs on pygame and python3
 
- Author:			Billy O Sullivan
- Created date:		08 June 2022
- Edited:			31 July 2022
+Author:			Billy O Sullivan
+Created date:		08 June 2022
+Edited:			31 July 2022
 
- python 3.10
+python 3.10
 
+# 3d files
+Available at https://www.printables.com/model/251382-raspberry-pi-camera
 
 # requires MP4Box
 sudo apt install -y gpac
