@@ -1,0 +1,6 @@
+mode 1
+brightness 50
+contrast 50
+exposure auto
+white auto
+effect none
