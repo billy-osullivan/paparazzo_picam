@@ -16,7 +16,7 @@ Runs on pygame and python3
 
 Author:			Billy O Sullivan
 Created date:		08 June 2022
-Edited:			31 July 2022
+Edited:			18 August 2022
 
 python 3.10
 
@@ -45,4 +45,10 @@ your photos are saved here
 
 /home/billy/Desktop/camera/videos/
 your videos are saved here
+
+# V1.1 released
+This adds support for removing all files to a removable thumb drive
+It also adds an option to shut down the camera gracefully 
+
+These options are available in the menu section of the camera gui
 
